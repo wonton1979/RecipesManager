@@ -1,0 +1,1132 @@
+{
+  "recipes":[
+    {
+      "recipe id": 1,
+      "recipe name": "roast beef with red wine and banana shallots",
+      "halal food" : true,
+      "cooking time": "150 minutes",
+      "calories per serving": 293,
+      "dish type": "dinner",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "meaty one",
+      "ingredients":{
+        "just-boiled water": {"amount":"600","unit":"ml","food type": "water" },
+        "beef stock cube": {"amount":"1","unit":"unit","food type": "seasoning" },
+        "tomato purée": {"amount":"2","unit":"tablespoon","food type": "vegetables" },
+        "yeast extract": {"amount":"1","unit":"tablespoon","food type": "yeast" },
+        "braising steak": {"amount":"900","unit":"gram","food type": "meat" },
+        "smoked bacon": {"amount":"100","unit":"gram","food type": "meat" },
+        "onion": {"amount":"100","unit":"gram","food type": "vegetables" },
+        "carrot": {"amount":"400","unit":"gram","food type": "vegetables" },
+        "celery": {"amount":"200","unit":"gram","food type": "vegetables" },
+        "plain flour": {"amount":"25","unit":"gram","food type": "grain product" },
+        "sea salt": {"amount":"1","unit":"tablespoon","food type": "seasoning" },
+        "dried mixed herbs": {"amount":"1","unit":"tablespoon","food type": "seasoning" },
+        "bay leaf": {"amount":"1","unit":"unit","food type": "seasoning" },
+        "ground black pepper": {"amount":"5","unit":"gram","food type": "seasoning" },
+        "mashed potatoes": {"amount":"300","unit":"gram","food type": "vegetables" }
+      },
+      "pictures": {
+        "picture one": "Images/roast_beef_with_red_wine_and_banana_shallots/roast_beef_with_red_wine_and_banana_shallots_one.jpg",
+        "picture two": "Images/roast_beef_with_red_wine_and_banana_shallots/roast_beef_with_red_wine_and_banana_shallots_two.jpg",
+        "picture three": "Images/roast_beef_with_red_wine_and_banana_shallots/roast_beef_with_red_wine_and_banana_shallots_three.jpg"
+      },
+      "instructions": "1. Braising steak, trimmed and cut into roughly 4cm/1½in chunks,sliced smoked back bacon,onions thinly sliced, carrots peeled and cut into roughly 3cm/1¼in chunks, celery sticks trimmed and cut into roughly 3cm/1¼in lengths.\n\n 3. Pour the just-boiled water into a heatproof measuring jug, add the stock cube, tomato purée and yeast extract. Stir well until the cube has dissolved and set aside.\n\n 4. Put the beef, bacon and vegetables in a slow cooker, sprinkle over the flour and add the salt, herbs and plenty of freshly ground black pepper. Toss together. Add the stock mixture and stir well.\n\n 5. Cover with the lid and cook on low for 8–10 hours, until the beef and vegetables are tender. Serve the beef stew with mashed potatoes."
+    },
+
+    {
+      "recipe id": 2,
+      "recipe name": "lamb madras with okra bhindi and peshwari naan",
+      "halal food" : true,
+      "cooking time": "150 minutes",
+      "calories per serving": 672,
+      "dish type": "dinner",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "meaty one",
+      "ingredients":{
+        "vegetable oil": {"amount":"20","unit":"ml","food type": "Cooking Oil", "prepare method": "" },
+        "bay leaves": {"amount":"3","unit":"unit","food type": "seasoning", "prepare method": ""},
+        "cardamom": {"amount":"3","unit":"unit","food type": "seasoning", "prepare method": ""},
+        "cinnamon": {"amount":"2","unit":"unit","food type": "seasoning","prepare method": ""  },
+        "garlic cloves": {"amount":"5","unit":"unit","food type": "vegetables", "prepare method": "minced"},
+        "root ginger": {"amount":"1","unit":"tablespoon","food type": "vegetables", "prepare method": "minced"},
+        "onion": {"amount":"3","unit":"unit","food type": "vegetables", "prepare method": "finely chopped" },
+        "lamb": {"amount":"500","unit":"gram","food type": "meat", "prepare method": "boneless" },
+        "tomatoes": {"amount":"400","unit":"gram","food type": "vegetables", "prepare method": "chopped"},
+        "turmeric": {"amount":"1","unit":"tablespoon","food type": "seasoning", "prepare method": "" },
+        "ground coriander": {"amount":"1","unit":"tablespoon","food type": "seasoning", "prepare method": "" },
+        "ground cumin": {"amount":"1","unit":"tablespoon","food type": "seasoning", "prepare method": "" },
+        "masala": {"amount":"1","unit":"tablespoon","food type": "seasoning", "prepare method": "" },
+        "madras curry powder": {"amount":"1","unit":"tablespoon","food type": "seasoning", "prepare method": "" },
+        "mashed potatoes": {"amount":"300","unit":"gram","food type": "vegetables" },
+        "Kashmiri chilli powder": {"amount":"2","unit":"tablespoon","food type": "seasoning", "prepare method": "" },
+        "chilli powder": {"amount":"1","unit":"tablespoon","food type": "seasoning", "prepare method": "" },
+        "fenugreek leaves": {"amount":"2","unit":"tablespoon","food type": "seasoning", "prepare method": "dried" },
+        "lemon": {"amount":"1/2","unit":"unit","food type": "seasoning", "prepare method": "juice only" },
+        "just-boiled water": {"amount":"1","unit":"tablespoon","food type": "water", "prepare method": "" },
+        "salt": {"amount":"1","unit":"pinch","food type": "water", "prepare method": "" }
+      },
+      "pictures": {
+        "picture one": "Images/lamb_madras_with_okra_bhindi_and_peshwari_naan/lamb_madras_with_okra_bhindi_and_peshwari_naan_one.jpg",
+        "picture two": "Images/lamb_madras_with_okra_bhindi_and_peshwari_naan/lamb_madras_with_okra_bhindi_and_peshwari_naan_two.jpg",
+        "picture three": "Images/lamb_madras_with_okra_bhindi_and_peshwari_naan/lamb_madras_with_okra_bhindi_and_peshwari_naan_three.png"
+      },
+      "instructions": "1. To make the lamb madras, heat the oil in a heavy based saucepan over a medium heat. Add the bay leaves, cardamom pods and cinnamon sticks to the oil for a minute to release the aroma.\n\n 2. Add the garlic and ginger and fry for 30 seconds, then add the onion and fry until golden-brown.\n\n 3. Add salt to taste, then add the lamb. Cook covered on a medium heat for 15 minutes, then add the chopped tomatoes and cook for a further 10 minutes with the lid on.\n\n 4. Add the turmeric, coriander, cumin, garam masala, curry powder and chilli powders and cook for 10 minutes, stirring regularly.\n\n 5. Add the dried fenugreek leaves and lemon juice. Increase the heat to high and cook for a few minutes more. Add the hot water and cook down for 5 minutes until the sauce is rich and thick and the lamb tender. "
+    },
+
+    {
+      "recipe id": 3,
+      "recipe name": "cod & prawn pie with saffron potatoes",
+      "halal food" : true,
+      "cooking time": "70 minutes",
+      "calories per serving": 435,
+      "dish type": "dinner",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "seafood and shellfish",
+      "ingredients":{
+        "olive oil": {"amount":"2","unit":"tablespoon","food type": "Cooking Oil", "prepare method": "" },
+        "yellow or red pepper": {"amount":"1","unit":"unit","food type": "vegetables", "prepare method": "de-seeded and finely chopped"},
+        "garlic cloves": {"amount":"5","unit":"unit","food type": "vegetables", "prepare method": ""},
+        "bay leaves": {"amount":"2","unit":"unit","food type": "vegetables","prepare method": "chopped"},
+        "smoked paprika": {"amount":"1","unit":"tablespoon","food type": "vegetables", "prepare method": ""},
+        "vegetable stock": {"amount":"1","unit":"unit","food type": "seasoning", "prepare method": ""},
+        "passata": {"amount":"500","unit":"gram","food type": "seasoning", "prepare method": "" },
+        "wild red shrimp": {"amount":"240","unit":"gram","food type": "seafood and shellfish", "prepare method": "peeled,defrosted" },
+        "skinless cod loin": {"amount":"2","unit":"unit","food type": "fish", "prepare method": "cut into large chunks"},
+        "green olives": {"amount":"9","unit":"unit","food type": "fruit", "prepare method": "quartered" },
+        "flat-leaf parsley": {"amount":"3","unit":"tablespoon","food type": "seasoning", "prepare method": "chopped" },
+        "green beans": {"amount":"320","unit":"gram","food type": "vegetables", "prepare method": "" },
+        "saffron threads": {"amount":"1","unit":"gram","food type": "seasoning", "prepare method": "" },
+        "potatoes": {"amount":"725","unit":"gram","food type": "vegetables", "prepare method": "peeled and thinly sliced" }
+      },
+      "pictures": {
+        "picture one": "Images/cod_prawn_pie_with_saffron_potatoes/cod_prawn_pie_with_saffron_potatoes_one.webp",
+        "picture two": "Images/cod_prawn_pie_with_saffron_potatoes/cod_prawn_pie_with_saffron_potatoes_two.jpg",
+        "picture three": "Images/cod_prawn_pie_with_saffron_potatoes/cod_prawn_pie_with_saffron_potatoes_three.webp"
+      },
+      "instructions": "1. Heat the oven to 200C/180C fan/ gas 6. Warm the olive oil in a large non-stick pan over a medium heat and fry the peppers, garlic and bay leaves for 10 mins, stirring often until the peppers have softened. \n\n 2. Meanwhile, prepare the saffron potatoes. Put the saffron threads in a small heatproof bowl with 1 tbsp boiling water, the olive oil and garlic, and stir well until the liquid turns yellow. Set aside. Bring a large pan of water to the boil, and cook the sliced potatoes for 5 mins until tender but not collapsing. Drain well.\n\n 3. When the peppers have softened, sprinkle over the paprika and stir briefly, then pour in the stock and passata and cook for 5 mins more. Remove from the heat and stir in the shrimp, cod, olives and parsley, if using. Tip the stew into a large, shallow pie dish (ours was 30 x 20cm, and about 6.5cm deep).\n\n 4. Arrange the potato slices over the stew in an even layer – they don’t have to be neat – then generously brush over the saffron mixture.\n\n 5. Bake the pie for 30-35 mins until bubbling at the edges and the fish is cooked through. When it’s almost finished cooking, boil or steam the broccoli or green beans to serve alongside the pie."
+    },
+
+     {
+      "recipe id": 4,
+      "recipe name": "nasi goreng (indonesian stir-fried rice)",
+      "halal food" : true,
+      "cooking time": "50 minutes",
+      "calories per serving": 442,
+      "dish type": "dinner",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "rice and noodles dish",
+      "ingredients":{
+        "long-grain rice": {"amount":"300","unit":"gram","food type": "grain product", "prepare method": "" },
+        "vegetable oil": {"amount":"3","unit":"tablespoon","food type": "cooking oil", "prepare method": ""},
+        "egg": {"amount":"4","unit":"unit","food type": "egg", "prepare method": "beaten"},
+        "fine green beans": {"amount":"100","unit":"gram","food type": "vegetables","prepare method": "cut in half"},
+        "chicken breasts": {"amount":"2","unit":"unit","food type": "meat", "prepare method": "cut into small even chunks"},
+        "large prawns": {"amount":"180","unit":"gram","food type": "seafood and shellfish", "prepare method": "peeled,cut in half"},
+        "shallots": {"amount":"200","unit":"gram","food type": "vegetables", "prepare method": "" },
+        "garlic": {"amount":"20","unit":"gram","food type": "vegetables", "prepare method": "finely chopped" },
+        "medium-hot red chilli": {"amount":"2","unit":"unit","food type": "vegetables", "prepare method": "de-seeded and finely chopped"},
+        "red bird's-eye chilli": {"amount":"1","unit":"unit","food type": "vegetables", "prepare method": "sliced" },
+        "carrot": {"amount":"1","unit":"unit","food type": "vegetables", "prepare method": "thinly sliced" },
+        "tomato purée": {"amount":"1","unit":"tablespoon","food type": "vegetables", "prepare method": "" },
+        "kecap manis": {"amount":"1","unit":"tablespoon","food type": "seasoning", "prepare method": "" },
+        "spring onion": {"amount":"8","unit":"unit","food type": "vegetables", "prepare method": "thinly sliced" },
+        "cucumber": {"amount":"1/3","unit":"unit","food type": "vegetables", "prepare method": "sliced" },
+        "medium tomato": {"amount":"2","unit":"unit","food type": "vegetables", "prepare method": "" },
+        "crispy fried onion": {"amount":"4","unit":"tablespoon","food type": "seasoning", "prepare method": "" },
+        "prawn cracker": {"amount":"6","unit":"unit","food type": "seasoning", "prepare method": "" }
+      },
+      "pictures": {
+        "picture one": "Images/nasi_goreng/nasi_goreng_one.webp",
+        "picture two": "Images/nasi_goreng/nasi_goreng_two.jpg",
+        "picture three": "Images/nasi_goreng/nasi_goreng_three.jpg"
+      },
+      "instructions": "1. Put the rice in a medium heavy-based saucepan and add 520ml water. Quickly bring to the boil, stir once and cover with a tight-fitting lid. Reduce the heat to low and cook for 10 mins. Uncover, fluff up with a fork and spread over a tray. Set aside to cool.\n\n 2. Meanwhile, heat 1 tbsp oil in a large frying pan over a medium heat. Pour in the beaten egg and, as it begins to cook, use a spatula to bring large flakes of cooked egg into the middle of the omelette. Continue to cook like this for a couple of mins, then leave the rest of the egg to set completely. Flip the omelette over and transfer to a plate to cool before cutting it into long, thin shreds.\n\n 3. Drop the beans into a pan of boiling salted water and cook for 3 mins. Drain, refresh under cold water and set aside.\n\n 4. Heat the remaining oil in a wok or large, deep frying pan until almost smoking. Add the chicken and prawns, and stir-fry for 1 min. Tip in the shallots, garlic, chillies and carrots, and stir-fry for a further 2 mins until the carrot is just tender. Add the spice paste and stir-fry for 1 min more. Add the tomato purée, kecap manis, cooked rice and green beans, and stir-fry over a high heat for 2 mins. Add the soy sauce, spring onions and shredded omelette, and toss together.\n\n 5. Spoon the nasi goreng onto warmed plates. Overlap the cucumber and tomato on the side of each plate, sprinkle over the crispy fried onions and serve with prawn crackers."
+    },
+
+    {
+      "recipe id": 5,
+      "recipe name": "sweet potato & peanut curry",
+      "halal food" : true,
+      "cooking time": "60 minutes",
+      "calories per serving": 387,
+      "dish type": "dinner",
+      "diet category": "vegan",
+      "recipe category": "vegan",
+      "ingredients":{
+        "coconut oil": {"amount":"1","unit":"tablespoon","food type": "cooking oil", "prepare method": "" },
+        "onion": {"amount":"1","unit":"unit","food type": "vegetables", "prepare method": "chopped"},
+        "garlic clove": {"amount":"2","unit":"unit","food type": "vegetables", "prepare method": "grated"},
+        "ginger": {"amount":"10","unit":"gram","food type": "vegetables","prepare method": "grated"},
+        "thai red curry paste": {"amount":"3","unit":"tablespoon","food type": "seasoning", "prepare method": ""},
+        "peanut butter": {"amount":"1","unit":"tablespoon","food type": "seasoning", "prepare method": "smooth"},
+        "sweet potato": {"amount":"500","unit":"gram","food type": "vegetables", "prepare method": "peeled and cut into chunks" },
+        "coconut milk": {"amount":"20","unit":"gram","food type": "dairy product", "prepare method": "" },
+        "spinach": {"amount":"50","unit":"gram","food type": "vegetables", "prepare method": ""},
+        "lime": {"amount":"1","unit":"unit","food type": "Fruit", "prepare method": "juiced" },
+        "cooked rice": {"amount":"150","unit":"gram","food type": "grain product", "prepare method": "" },
+        "peanuts": {"amount":"15","unit":"gram","food type": "peanuts", "prepare method": "dry roasted" }
+      },
+      "pictures": {
+        "picture one": "Images/satay-sweet-potato-curry/satay_sweet_potato_curry_one.webp",
+        "picture two": "Images/satay-sweet-potato-curry/satay_sweet_potato_curry_two.jpg",
+        "picture three": "Images/satay-sweet-potato-curry/satay_sweet_potato_curry_three.png"
+      },
+      "instructions": "1. Melt 1 tbsp coconut oil in a saucepan over a medium heat and soften 1 chopped onion for 5 mins. Add 2 grated garlic cloves and a grated thumb-sized piece of ginger, and cook for 1 min until fragrant.\n\n 2. Stir in 3 tbsp Thai red curry paste, 1 tbsp smooth peanut butter and 500g sweet potato, peeled and cut into chunks, then add 400ml coconut milk and 200ml water.\n\n 3. Bring to the boil, turn down the heat and simmer, uncovered, for 25-30 mins or until the sweet potato is soft.\n\n 4. Stir through 200g spinach and the juice of 1 lime, and season well. Serve with cooked rice, and if you want some crunch, sprinkle over a few dry roasted peanuts."
+    },
+
+    {
+      "recipe id": 6,
+      "recipe name": "white chocolate cheesecake",
+      "halal food" : true,
+      "cooking time": "25 minutes",
+      "calories per serving": 801,
+      "dish type": "desserts",
+      "diet category": "Flexitarian (Normal Diet)",
+      "recipe category": "desserts",
+      "ingredients":{
+        "digestive biscuits": {"amount":"300","unit":"gram","food type": "grain product", "prepare method": "" },
+        "unsalted butter": {"amount":"150","unit":"gram","food type": "dairy product", "prepare method": "melted, plus extra to grease"},
+        "white chocolate": {"amount":"400","unit":"gram","food type": "seasoning", "prepare method": ""},
+        "full-fat cream cheese": {"amount":"300","unit":"gram","food type": "dairy product","prepare method": ""},
+        "mascarpone": {"amount":"250","unit":"gram","food type": "dairy product", "prepare method": ""},
+        "double cream": {"amount":"300","unit":"ml","food type": "dairy product", "prepare method": ""},
+        "strawberries": {"amount":"200","unit":"gram","food type": "Fruit", "prepare method": "" }
+      },
+      "pictures": {
+        "picture one": "Images/white_chocolate_cheesecake/white_chocolate_cheesecake_one.jpg",
+        "picture two": "Images/white_chocolate_cheesecake/white_chocolate_cheesecake_two.webp",
+        "picture three": "Images/white_chocolate_cheesecake/white_chocolate_cheesecake_three.jpg"
+      },
+      "instructions": "1. Crush the biscuits in a food processor until completely ground. Add butter and whizz again until you have the desired crumbly consistency.\n\n 2. Grease and line the base of a 23cm deep, loose-bottomed cake tin. Add the biscuit mixture to the cake tin and pat it flat. Leave to set in the fridge for approximately 30 mins.\n\n 3. Begin melting the chocolate in a heatproof glass bowl over a small pan of hot water on a low heat. Stir occasionally to prevent sticking. Remove from the heat and leave to cool for 10 mins until barely warm but still liquid.\n\n 4. Meanwhile whisk the cream cheese and mascarpone together. Add double cream and keep whisking until the mixture is just holding its own shape. Finally, add the melted chocolate and whisk until just combined.\n\n 5. Spoon the mixture over the cooled and set biscuit base, then smooth the top. Return to the fridge to cool for at least 6 hrs until the topping is set. Finally, decorate with fruit."
+    },
+
+    {
+      "recipe id": 7,
+      "recipe name": "chocolate tiffin",
+      "halal food" : true,
+      "cooking time": "17 minutes",
+      "calories per serving": 266,
+      "dish type": "desserts",
+      "diet category": "Flexitarian (Normal Diet)",
+      "recipe category": "desserts",
+      "ingredients":{
+        "butter": {"amount":"150","unit":"gram","food type": "dairy product", "prepare method": "cubed, plus extra for the tin" },
+        "caster sugar": {"amount":"3","unit":"tablespoon","food type": "seasoning", "prepare method": "melted, plus extra to grease"},
+        "golden syrup": {"amount":"3","unit":"tablespoon","food type": "seasoning", "prepare method": "broken into pieces"},
+        "cocoa powder": {"amount":"6","unit":"tablespoon","food type": "cocoa product","prepare method": ""},
+        "biscuits": {"amount":"225","unit":"gram","food type": "grain product", "prepare method": "crushed"},
+        "raisins": {"amount":"30","unit":"gram","food type": "dry fruit", "prepare method": ""},
+        "milk chocolate": {"amount":"110","unit":"gram","food type": "dairy product", "prepare method": "" },
+        "dark chocolate": {"amount":"110","unit":"gram","food type": "cocoa product", "prepare method": "" }
+      },
+      "pictures": {
+        "picture one": "Images/chocolate_tiffin/chocolate_tiffin_one.webp",
+        "picture two": "Images/chocolate_tiffin/chocolate_tiffin_two.jpg",
+        "picture three": "Images/chocolate_tiffin/chocolate_tiffin_three.webp"
+      },
+      "instructions": "1. Butter and line a 15-20cm tin with baking parchment. In a large saucepan, melt the butter, sugar, syrup and cocoa. Stir through the biscuits and raisins.\n\n 2. Pour the mixture into the prepared tin and press down, then smooth the top with the back of a spoon. Microwave both chocolates in short 20 second bursts, stirring frequently, until melted. Pour them over the mixture in the tin. Use a palette knife or spoon to smooth over, so it's completely coated in chocolate.\n\n 3. Put the tin into the fridge and leave for about 2 hrs to set, or overnight. Run a kitchen knife under the hot tap then cut into squares."
+    },
+
+    {
+      "recipe id": 8,
+      "recipe name": "pistachio tiramisu",
+      "halal food": true,
+      "cooking time": "35 minutes",
+      "calories per serving": 570,
+      "dish type": "dinner",
+      "diet category": "Flexitarian (Normal Diet)",
+      "recipe category": "desserts",
+      "ingredients": {
+        "egg": {
+          "amount": "3",
+          "unit": "unit",
+          "food type": "egg",
+          "prepare method": "separated"
+        },
+        "caster sugar": {
+          "amount": "100",
+          "unit": "gram",
+          "food type": "seasoning",
+          "prepare method": ""
+        },
+        "mascarpone": {
+          "amount": "250",
+          "unit": "gram",
+          "food type": "dairy product",
+          "prepare method": ""
+        },
+        "coffee liqueur": {
+          "amount": "2",
+          "unit": "tablespoon",
+          "food type": "cocoa product",
+          "prepare method": ""
+        },
+        "double cream": {
+          "amount": "150",
+          "unit": "ml",
+          "food type": "dairy product",
+          "prepare method": ""
+        },
+        "pistachio cream spread": {
+          "amount": "5",
+          "unit": "tablespoon",
+          "food type": "seasoning",
+          "prepare method": ""
+        },
+        "strong black coffee": {
+          "amount": "200",
+          "unit": "ml",
+          "food type": "cocoa product",
+          "prepare method": "made with 1½ tbsp instant coffee granules, cooled"
+        },
+        "coconut milk": {
+          "amount": "20",
+          "unit": "gram",
+          "food type": "cocoa product",
+          "prepare method": ""
+        },
+        "amaretto": {
+          "amount": "75",
+          "unit": "ml",
+          "food type": "seasoning",
+          "prepare method": ""
+        },
+        "savoiardi sponge fingers": {
+          "amount": "300",
+          "unit": "gram",
+          "food type": "grain product",
+          "prepare method": ""
+        },
+        "regular pistachio": {
+          "amount": "25",
+          "unit": "gram",
+          "food type": "tree nuts",
+          "prepare method": "roughly chopped"
+        }
+      },
+      "pictures": {
+        "picture one": "Images/Pistachio_tiramisu/Pistachio_tiramisu_one.jpg",
+        "picture two": "Images/Pistachio_tiramisu/Pistachio_tiramisu_two.jpg",
+        "picture three": "Images/Pistachio_tiramisu/Pistachio_tiramisu_three.jpg"
+      },
+      "instructions": "1. Line the base and sides of a deep 20cm loose-bottomed square tin with baking parchment. Add some strips of parchment that hang over the sides of the tin to help lift the tiramisu out. Beat the egg yolks and sugar together using an electric whisk until pale, thick and doubled in volume. Add the mascarpone and marsala, and whisk again for about 3 mins to combine.\n\n 2. Whisk the cream and 3 tbsp of the pistachio spread together in a separate bowl until the mixture just holds its shape, then fold this into the mascarpone mixture. Clean the beaters and whisk the egg whites to stiff peaks in a third bowl, then fold this into the pistachio-mascarpone mixture. Keep chilled.\n\n 3. Whisk the coffee, amaretto and 2 tbsp pistachio spread together in a shallow dish. Dip the sponge fingers into the mix briefly on both sides, then arrange in a single layer in the base of the tin. Spoon over a third of the filling, then repeat the process twice, alternating between the sponge fingers and filling.\n\n 4. Chill for 3-4 hrs, or overnight. Transfer to a serving plate, drizzle over the melted pistachio spread in a criss-cross pattern, and sprinkle the slivered pistachios around the edge. Will keep chilled for two days."
+    },
+
+     {
+      "recipe id": 9,
+      "recipe name": "vegan ramen",
+      "halal food" : true,
+      "cooking time": "25 minutes",
+      "calories per serving": 556,
+      "dish type": "dinner",
+      "diet category": "vegan",
+      "recipe category": "vegan",
+      "ingredients":{
+        "garlic cloves": {"amount":"2","unit":"unit","food type": "vegetables","prepare method": "" },
+        "ginger": {"amount":"2","unit":"unit","food type": "vegetables", "prepare method": "sliced"},
+        "white miso paste": {"amount":"2","unit":"tablespoon","food type": "seasoning","prepare method": "" },
+        "neri goma": {"amount":"1","unit":"tablespoon","food type": "seasoning","prepare method": "" },
+        "dried shiitake mushrooms": {"amount":"15","unit":"gram","food type": "vegetables", "prepare method": ""},
+        "soy sauce": {"amount":"2","unit":"tablespoon","food type": "seasoning", "prepare method": "" },
+        "vegan stock": {"amount":"1","unit":"unit","food type": "seasoning","prepare method": "" },
+        "firm tofu": {"amount":"200","unit":"gram","food type": "soy","prepare method": "cut into chunky cubes"},
+        "cornflour": {"amount":"1","unit":"tablespoon","food type": "grain product","prepare method": ""},
+        "sunflower oil": {"amount":"1","unit":"tablespoon","food type": "cooking oil","prepare method": "" },
+        "ramen": {"amount":"100","unit":"gram","food type": "grain product","prepare method": ""  },
+        "pak choi": {"amount":"1/4","unit":"unit","food type": "vegetables","prepare method": ""  },
+        "sesame oil": {"amount":"5","unit":"gram","food type": "seasoning","prepare method": ""  },
+        "spring onions": {"amount":"2","unit":"unit","food type": "vegetables" ,"prepare method": "finely sliced, white and green parts kept separate" },
+        "beansprouts": {"amount":"25","unit":"gram","food type": "vegetables","prepare method": "ready-to-eat"},
+        "carrot": {"amount":"1","unit":"unit","food type": "vegetables", "prepare method": "peeled and cut into fine matchsticks"}
+      },
+      "pictures": {
+        "picture one": "Images/vegan_ramen/vegan_ramen_one.jpg",
+        "picture two": "Images/vegan_ramen/vegan_ramen_two.jpg",
+        "picture three": "Images/vegan_ramen/vegan_ramen_three.jpg"
+      },
+      "instructions": "1. Crush the garlic with the back of a big knife, then put it in a saucepan with the ginger, miso, neri goma, mushrooms, stock and soy. Bring to a gentle simmer, cover and bubble for 5 mins until the ginger is soft. Strain into a clean pan and discard everything left in the strainer.\n\n  2. Meanwhile, cook the tofu. Toss it in the cornflour and heat the oil in a frying pan. Fry for a few mins on each side, being careful as you turn it that it doesn’t fall apart. Cook the noodles for 1 min less than pack instructions, so they retain a little bite. Drain and leave in the pan with a little cooking water so they don’t stick together.\n\n 3. Add the pak choi and whites of the spring onions to the broth and gently reheat for 1-2 mins until the greens have just wilted.\n\n  4. Divide the noodles between two deep bowls, ladle over the broth and veg. Top with the tofu, beansprouts, carrot and ginger matchsticks, green parts of the spring onions and a drizzle of sesame oil, plus the other toppings, if you like."
+    },
+
+     {
+      "recipe id": 10,
+      "recipe name": "vegan thai green curry",
+      "halal food" : true,
+      "cooking time": "30 minutes",
+      "calories per serving": 436,
+      "dish type": "dinner",
+      "diet category": "vegan",
+      "recipe category": "vegan",
+      "ingredients":{
+        "baby potatoes": {"amount":"200","unit":"gram","food type": "vegetables","prepare method": "halved" },
+        "green beans": {"amount":"100","unit":"gram","food type": "vegetables", "prepare method": "trimmed and halved"},
+        "rapeseed oil": {"amount":"1","unit":"tablespoon","food type": "vegetables","prepare method": "" },
+        "garlic cloves": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "finely sliced" },
+        "thai green curry paste": {"amount":"1","unit":"tablespoon","food type": "seasoning", "prepare method": ""},
+        "light coconut milk": {"amount":"400","unit":"gram","food type": "cocoa product", "prepare method": "" },
+        "lime": {"amount":"1","unit":"unit","food type": "fruit","prepare method": "zest pared in thick strips" },
+        "firm tofu": {"amount":"100","unit":"gram","food type": "soy","prepare method": "cut into chunky cubes"},
+        "sugar snap peas": {"amount":"80","unit":"gram","food type": "vegetables","prepare method": "halved lengthways"},
+        "cherry tomatoes": {"amount":"150","unit":"gram","food type": "fruit","prepare method": "halved" },
+        "coriander": {"amount":"10","unit":"gram","food type": "vegetables","prepare method": "chopped"  },
+        "jasmine rice": {"amount":"200","unit":"gram","food type": "grain product","prepare method": "cooked following pack instructions"}
+      },
+      "pictures": {
+        "picture one": "Images/vegan_thai_green_curry/vegan_thai_green_curry_one.jpg",
+        "picture two": "Images/vegan_thai_green_curry/vegan_thai_green_curry_two.jpg",
+        "picture three": "Images/vegan_thai_green_curry/vegan_thai_green_curry_three.jpg"
+      },
+      "instructions": "1. Cook the potatoes in boiling water for 8 mins. Add the green beans and cook for a further 3 mins, then drain.\n\n 2. Heat the oil in a wok or pan, fry the garlic for 1 min, add the curry paste and cook for 1 min, or until it starts to darken a little and smell fragrant. Stir in the coconut milk and bring to a simmer, drop in the lime zest and gently bubble for 5 mins to thicken the sauce a little.\n\n 3. Add the potatoes and beans followed by the sugar snap peas and cook for 1 min before stirring in the cherry tomatoes and tofu.\nstep 4\n\nCut the lime in half and squeeze the juice into the pan, then stir in the coriander and serve over the rice."
+    },
+
+    {
+      "recipe id": 11,
+      "recipe name": "vegan meatballs",
+      "halal food" : true,
+      "cooking time": "85 minutes",
+      "calories per serving": 400,
+      "dish type": "dinner",
+      "diet category": "vegan",
+      "recipe category": "vegan",
+      "ingredients":{
+        "dried porcini mushrooms": {"amount":"30","unit":"gram","food type": "vegetables","prepare method": "" },
+        "olive oil": {"amount":"5","unit":"tablespoon","food type": "cooking oil", "prepare method": ""},
+        "onion": {"amount":"2","unit":"unit","food type": "vegetables","prepare method": "very finely chopped" },
+        "garlic cloves": {"amount":"3","unit":"unit","food type": "vegetables","prepare method": "crushed "},
+        "sweet smoked paprika": {"amount":"1","unit":"tablespoon","food type": "vegetables", "prepare method": "drained and rinsed"},
+        "can black beans": {"amount":"400","unit":"gram","food type": "cocoa product", "prepare method": "" },
+        "rolled oats": {"amount":"50","unit":"gram","food type": "grain product","prepare method": "" },
+        "brown rice miso": {"amount":"2","unit":"tablespoon","food type": "seasoning","prepare method": ""},
+        "fresh breadcrumbs": {"amount":"50","unit":"gram","food type": "grain product","prepare method": ""},
+        "spaghetti": {"amount":"150","unit":"gram","food type": "grain product","prepare method": "to serve" },
+        "chilli flakes": {"amount":"1","unit":"pinch","food type": "vegetables","prepare method": ""  },
+        "can chopped tomatoes": {"amount":"800","unit":"gram","food type": "vegetables","prepare method": ""},
+        "soft brown sugar": {"amount":"1","unit":"tablespoon","food type": "seasoning","prepare method": ""},
+        "basil": {"amount":"10","unit":"gram","food type": "vegetables","prepare method": "finely chopped"}
+      },
+      "pictures": {
+        "picture one": "Images/vegan_meatballs/vegan_meatballs_one.jpg",
+        "picture two": "Images/vegan_meatballs/vegan_meatballs_two.jpg",
+        "picture three": "Images/vegan_meatballs/vegan_meatballs_three.jpg"
+      },
+      "instructions": "1. Tip the dried porcini into a bowl and cover with boiling water. Leave to soak for 20 mins.\n\n 2. Meanwhile heat 1 tbsp of olive oil a frying pan. Add the onion and fry over a low heat for 10 mins or until softened and translucent. Add the garlic and paprika and cook for 1 min.\n\n 3. Tip the black beans and oats into a food processor and blitz until you have a chunky, textured mixture. Tip the beans into a mixing bowl and stir through the miso, breadcrumbs and cooked onion mix. Strain and finely chop the porcini mushrooms and add those (keep the liquid for soup or risottos). Season and roll into 12 balls and chill in the fridge while you make the sauce.\n\n 4. Heat 2 tbsp oil in a saucepan. Add the onion and fry over a low heat for 10 mins or until softened and translucent. Add the garlic and chilli and cook for 1 min. Stir through the tomatoes and sugar and season to taste. Simmer uncovered for 20 mins.\n\n 5. Heat the oven to 180C/160C fan/gas 4. Heat the remaining 2 tbsp oil for the meatballs in a non-stick frying pan over a medium heat. Add the balls and fry for 5 mins until evenly brown. Transfer to a baking tray and put in the oven to cook through for 12 mins.\n\n 6. Add the cooked meatballs to the pan of sauce and toss everything to coat, then scatter with the basil. Serve with spaghetti or soft polenta."
+    },
+
+    {
+      "recipe id": 12,
+      "recipe name": "sticky noodles with homemade hoisin",
+      "halal food" : true,
+      "cooking time": "35 minutes",
+      "calories per serving": 476,
+      "dish type": "dinner",
+      "diet category": "vegan",
+      "recipe category": "vegan",
+      "ingredients":{
+        "raisins": {"amount":"2","unit":"tablespoon","food type": "fruit","prepare method": "" },
+        "apple cider vinegar": {"amount":"1","unit":"tablespoon","food type": "seasoning", "prepare method": ""},
+        "tomato purée": {"amount":"2","unit":"tablespoon","food type": "vegetables","prepare method": "" },
+        "garlic cloves": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": ""},
+        "tamari": {"amount":"1","unit":"tablespoon","food type": "seasoning", "prepare method": ""},
+        "chinese five spice": {"amount":"1","unit":"tablespoon","food type": "seasoning", "prepare method": "" },
+        "crunchy peanut butter": {"amount":"2","unit":"tablespoon","food type": "peanuts","prepare method": "" },
+        "wholemeal noodles": {"amount":"75","unit":"gram","food type": "grain product","prepare method": ""},
+        "rapeseed oil": {"amount":"1","unit":"tablespoon","food type": "cooking oil","prepare method": ""},
+        "ginger": {"amount":"20","unit":"gram","food type": "vegetables","prepare method": "chopped" },
+        "yellow pepper": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "deseeded and thinly sliced"},
+        "red onions": {"amount":"2","unit":"unit","food type": "vegetables","prepare method": "thinly sliced"},
+        "long stem broccoli": {"amount":"100","unit":"gram","food type": "vegetables","prepare method": "halved"},
+        "frozen soya beans": {"amount":"100","unit":"gram","food type": "vegetables","prepare method": "thawed"},
+        "red chilli": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "seeded and chopped"},
+        "basil leaves": {"amount":"10","unit":"gram","food type": "vegetables","prepare method": ""}
+      },
+      "pictures": {
+        "picture one": "Images/sticky_noodles_with_homemade_hoisin/sticky_noodles_with_homemade_hoisin_one.jpg",
+        "picture two": "Images/sticky_noodles_with_homemade_hoisin/sticky_noodles_with_homemade_hoisin_two.jpg",
+        "picture three": "Images/sticky_noodles_with_homemade_hoisin/sticky_noodles_with_homemade_hoisin_three.jpg"
+      },
+      "instructions": "1. Put the raisins in a measuring jug or small, high-sided bowl, pour over 100ml boiling water then stir in the garlic, vinegar, tomato purée, tamari and five spice. Blitz with a hand blender until smooth, then stir in the peanut butter until well mixed.\n\n 2. Pour boiling water over the noodles and soak for 5 mins. Heat the oil in a non-stick wok, add the ginger with the vegetables and chilli and stir-fry for 5 mins or more until the veg have softened, but still have some bite.\n\n 3. Drain the noodles and add to the pan with the hoisin. Toss well adding a little extra water if necessary to moisten, then toss through the basil leaves."
+    },
+
+    {
+      "recipe id": 13,
+      "recipe name": "vegan jambalaya",
+      "halal food" : true,
+      "cooking time": "45 minutes",
+      "calories per serving": 547,
+      "dish type": "dinner",
+      "diet category": "vegan",
+      "recipe category": "vegan",
+      "ingredients":{
+        "celery sticks": {"amount":"4","unit":"unit","food type": "vegetables","prepare method": "finely chopped" },
+        "smoked paprika": {"amount":"2","unit":"tablespoon","food type": "seasoning", "prepare method": ""},
+        "chilli flakes": {"amount":"1/2","unit":"tablespoon","food type": "seasoning","prepare method": "" },
+        "garlic cloves": {"amount":"2","unit":"unit","food type": "vegetables","prepare method": "finely grated"},
+        "dried oregano": {"amount":"1/2","unit":"tablespoon","food type": "seasoning", "prepare method": ""},
+        "brown basmati rice": {"amount":"115","unit":"gram","food type": "grain product", "prepare method": "" },
+        "can chopped tomatoes": {"amount":"400","unit":"gram","food type": "vegetables","prepare method": "" },
+        "butter beans": {"amount":"400","unit":"gram","food type": "vegetables","prepare method": "drained and rinsed"},
+        "olive oil": {"amount":"2","unit":"tablespoon","food type": "cooking oil","prepare method": ""},
+        "onion": {"amount":"180","unit":"gram","food type": "vegetables","prepare method": "finely chopped" },
+        "yellow pepper": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "chopped"},
+        "vegetable bouillon powder": {"amount":"2","unit":"tablespoon","food type": "seasoning","prepare method": ""},
+        "parsley": {"amount":"30","unit":"gram","food type": "vegetables","prepare method": "chopped"}
+      },
+      "pictures": {
+        "picture one": "Images/vegan_jambalaya/vegan_jambalaya_one.jpg",
+        "picture two": "Images/vegan_jambalaya/vegan_jambalaya_two.jpg",
+        "picture three": "Images/vegan_jambalaya/vegan_jambalaya_three.jpg"
+      },
+      "instructions": "1. Heat the oil in a large pan set over a high heat and fry the onion, celery and pepper, stirring occasionally, for 5 mins until starting to soften and colour.\n\n 2. Stir in the spices and rice, then tip in the tomatoes and a can of water. Stir in the garlic, beans and bouillon. Bring to a simmer, then cover and cook for 25 mins until the rice is tender and has absorbed most of the liquid. Keep an eye on the pan towards the end of the cooking time to make sure it doesn’t boil dry – if it starts to catch, add a little more water. Stir in the parsley and serve hot."
+    },
+
+    {
+      "recipe id": 14,
+      "recipe name": "vegetable stew",
+      "halal food" : true,
+      "cooking time": "50 minutes",
+      "calories per serving": 216,
+      "dish type": "dinner",
+      "diet category": "vegan",
+      "recipe category": "vegan",
+      "ingredients":{
+        "ground cumin": {"amount":"1/2","unit":"tablespoon","food type": "seasoning","prepare method": ""},
+        "smoked paprika": {"amount":"2","unit":"tablespoon","food type": "seasoning", "prepare method": ""},
+        "dried thyme": {"amount":"1","unit":"tablespoon","food type": "seasoning","prepare method": "" },
+        "garlic cloves": {"amount":"3","unit":"unit","food type": "vegetables","prepare method": "sliced"},
+        "carrots": {"amount":"200","unit":"gram","food type": "vegetables", "prepare method": "sliced"},
+        "celery sticks": {"amount":"120","unit":"gram","food type": "vegetables", "prepare method": "finely sliced" },
+        "red pepper": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "" },
+        "can chopped tomatoes": {"amount":"800","unit":"gram","food type": "vegetables","prepare method": ""},
+        "olive oil": {"amount":"1","unit":"tablespoon","food type": "cooking oil","prepare method": ""},
+        "onion": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "sliced" },
+        "yellow pepper": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "chopped"},
+        "vegetable stock cube": {"amount":"1","unit":"unit","food type": "seasoning","prepare method": ""},
+        "courgettes": {"amount":"2","unit":"unit","food type": "vegetables","prepare method": "sliced thickly"},
+        "fresh thyme": {"amount":"30","unit":"gram","food type": "seasoning","prepare method": ""},
+        "puy lentils": {"amount":"250","unit":"gram","food type": "vegetables","prepare method": "cooked"}
+      },
+      "pictures": {
+        "picture one": "Images/vegetable_stew/vegetable_stew_one.jpg",
+        "picture two": "Images/vegetable_stew/vegetable_stew_two.jpg",
+        "picture three": "Images/vegetable_stew/vegetable_stew_three.jpg"
+      },
+      "instructions": "1. Heat the olive or rapeseed oil in a large, lidded, heavy-based pan over a medium heat. Lower the heat slightly then add the onion, cooking gently and stirring occasionally, for 5-10 mins until softened.\n\n 2. Stir in the garlic cloves, smoked paprika, ground cumin, dried thyme, carrots, celery sticks, red and yellow peppers, and cook for 5 mins.\n\n 3. Tip in the tomatoes along with the vegetable stock, courgettes and thyme sprigs. Give it a good stir, cover, and cook for 20-25 mins.\n\n 4. Remove the thyme sprigs and discard. Stir in the cooked lentils and bring back to a simmer for 5 mins until warmed through. Serve with wild and white basmati rice, mash or quinoa."
+    },
+
+    {
+      "recipe id": 15,
+      "recipe name": "paella mixta",
+      "halal food" : false,
+      "cooking time": "75 minutes",
+      "calories per serving": 733,
+      "dish type": "dinner",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "seafood and shellfish",
+      "ingredients":{
+        "smoked paprika": {"amount":"1","unit":"tablespoon","food type": "seasoning","prepare method": ""},
+        "chicken stock": {"amount":"500","unit":"ml","food type": "seasoning", "prepare method": ""},
+        "saffron": {"amount":"2","unit":"pinch","food type": "seasoning","prepare method": "" },
+        "garlic cloves": {"amount":"3","unit":"unit","food type": "vegetables","prepare method": "crushed or finely chopped"},
+        "paella rice": {"amount":"300","unit":"gram","food type": "grain product", "prepare method": ""},
+        "boneless chicken thighs": {"amount":"4","unit":"unit","food type": "poultry", "prepare method": "cut in half" },
+        "chorizo": {"amount":"200","unit":"gram","food type": "meat","prepare method": "" },
+        "frozen peas": {"amount":"85","unit":"gram","food type": "vegetables","prepare method": ""},
+        "olive oil": {"amount":"4","unit":"tablespoon","food type": "cooking oil","prepare method": ""},
+        "onion": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "chopped" },
+        "raw king prawns": {"amount":"150","unit":"gram","food type": "seafood and shellfish","prepare method": "chopped"},
+        "mussels": {"amount":"250","unit":"gram","food type": "seafood and shellfish","prepare method": ""},
+        "lemon": {"amount":"1","unit":"unit","food type": "fruit","prepare method": "quartered"}
+      },
+      "pictures": {
+        "picture one": "Images/paella_mixta/paella_mixta_one.jpg",
+        "picture two": "Images/paella_mixta/paella_mixta_two.jpg",
+        "picture three": "Images/paella_mixta/paella_mixta_three.jpg"
+      },
+      "instructions": "1. Heat the oven to 220C/200C fan/gas 7. Combine the tomatoes, stock, paprika and saffron in a large heatproof jug, then microwave for 5 mins on high, or until steaming hot. Or, heat in a pan on the hob.\n\n  2. Put the onion and garlic in a large ovenproof frying pan or roasting tin, drizzle over the olive oil and stir to coat. Roast for 20 mins, or until the veg is starting to brown.\n\n 3. Stir in the rice, chicken, chorizo and hot stock mix. Season and bake for 20 mins (don’t cover the pan).\n\n 4. Gently stir in the peas, dot over the prawns and press the mussels in, hinged-side down, so they’re standing up. Arrange the lemon wedges around the edge, if using. Bake for 5-10 mins more until the rice, chicken and prawns are cooked, and the mussels have opened (discard any that stay shut). Check for seasoning, and serve."
+    },
+
+    {
+      "recipe id": 16,
+      "recipe name": "cod and chorizo stew",
+      "halal food" : false,
+      "cooking time": "27 minutes",
+      "calories per serving": 417,
+      "dish type": "dinner",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "seafood and shellfish",
+      "ingredients":{
+        "cooking chorizo": {"amount":"200","unit":"gram","food type": "meat","prepare method": "chopped into small pieces"},
+        "can chopped tomatoes": {"amount":"400","unit":"gram","food type": "vegetables", "prepare method": ""},
+        "cod fillets": {"amount":"4","unit":"unit","food type": "seafood and shellfish","prepare method": "" },
+        "can butter beans": {"amount":"400","unit":"gram","food type": "vegetables","prepare method": "drained"},
+        "parsley": {"amount":"30","unit":"gram","food type": "vegetables", "prepare method": "roughly chopped"},
+        "olive oil": {"amount":"1","unit":"tablespoon","food type": "cooking oil","prepare method": ""},
+        "onion": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "finely chopped" }
+      },
+      "pictures": {
+        "picture one": "Images/cod_and_chorizo_stew/cod_and_chorizo_stew_one.jpg",
+        "picture two": "Images/cod_and_chorizo_stew/cod_and_chorizo_stew_two.jpg",
+        "picture three": "Images/cod_and_chorizo_stew/cod_and_chorizo_stew_three.jpg"
+      },
+      "instructions": "1. Heat the oil in a deep frying pan and add the onion. Cook over a medium heat for 5 mins until starting to soften. Add the chorizo and cook for another few mins to release the oil. Coat the onion in the chorizo oil, then tip in the tomatoes. Fill the can with water and tip that in too. Season and bring to the boil.\n\n 2. Once boiling, season the cod fillets and nestle into the pan. Reduce the heat and gently simmer for about 7 mins. Gently mix in the butter beans and cook for 1-2 mins more until hot. Scatter with parsley and serve in bowls."
+    },
+
+     {
+      "recipe id": 17,
+      "recipe name": "new england clam chowder",
+      "halal food" : true,
+      "cooking time": "65 minutes",
+      "calories per serving": 303,
+      "dish type": "dinner",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "seafood and shellfish",
+      "ingredients":{
+        "bay leaf": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": ""},
+        "tomatoes": {"amount":"500","unit":"gram","food type": "vegetables", "prepare method": "peeled and cut into cubes around 1cm"},
+        "clams": {"amount":"2000","unit":"gram","food type": "seafood and shellfish","prepare method": "" },
+        "parsnips": {"amount":"300","unit":"gram","food type": "vegetables","prepare method": "cut into 1cm cubes"},
+        "unsmoked bacon": {"amount":"100","unit":"gram","food type": "meat", "prepare method": ""},
+        "olive oil": {"amount":"1/2","unit":"tablespoon","food type": "cooking oil","prepare method": ""},
+        "onion": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "finely chopped" },
+        "crème fraîche": {"amount":"100","unit":"gram","food type": "dairy product","prepare method": "" },
+        "lemon": {"amount":"1","unit":"unit","food type": "fruit","prepare method": "" },
+        "chives": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "" }
+      },
+      "pictures": {
+        "picture one": "Images/new_england_clam_chowder/new_england_clam_chowder_one.jpg",
+        "picture two": "Images/new_england_clam_chowder/new_england_clam_chowder_two.jpg",
+        "picture three": "Images/new_england_clam_chowder/new_england_clam_chowder_three.jpg"
+      },
+      "instructions": "1. Heat 1 litre of water in a large pan over a high heat. Once boiling, tip in the clams. Cover with a lid and cook for 2-3 mins until the majority of the clam shells have opened. Pour into a sieve over a large jug, reserving the cooking water. Tip the reserved liquid through a muslin-lined sieve into a large non stick saucepan and set aside – this is your stock for the soup.\n\n 2. Discard any clams which haven’t opened, then remove three-quarters of the clams from their shells and roughly chop.\n\n 3. Put the bay leaf in the pan with the clam stock and tip in the potato and parsnip cubes. Cook for 5-7 mins until tender. Use a slotted spoon to remove half of the potato and parsnip and set aside. Fish out the bay leaf, spoon off any scum from the surface of the soup, then blitz the remaining stock and vegetables in a food processor until smooth, or using a stick blender.\n\n 4. Using the same saucepan over a medium heat, pour in the oil, add the bacon lardons, fry until crisp, then remove with a slotted spoon and set aside. Add the onion to the pan, cook for 5 mins until soft, then pour in the blitzed chowder, potato and parsnip. Heat until simmering, then tip in the chopped clams, take off the heat and stir through the crème fraîche, adding lemon juice to taste. Serve, topped with the crispy bacon, reserved clams in their shells and a scattering of chives and black pepper."
+    },
+
+     {
+      "recipe id": 18,
+      "recipe name": "lobster with thermidor butter",
+      "halal food" : true,
+      "cooking time": "30 minutes",
+      "calories per serving": 419,
+      "dish type": "dinner",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "seafood and shellfish",
+      "ingredients":{
+        "cooked lobsters": {"amount":"2","unit":"unit","food type": "seafood and shellfish","prepare method": ""},
+        "dry white wine": {"amount":"150","unit":"ml","food type": "seasoning", "prepare method": ""},
+        "shallot": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "very finely chopped" },
+        "tarragon leaves": {"amount":"30","unit":"gram","food type": "vegetables","prepare method": "chopped"},
+        "parsley leaves": {"amount":"30","unit":"gram","food type": "vegetables", "prepare method": "chopped"},
+        "Dijon mustard": {"amount":"1","unit":"tablespoon","food type": "seasoning","prepare method": ""},
+        "paprika": {"amount":"1","unit":"pinch","food type": "seasoning","prepare method": "" },
+        "Tabasco sauce": {"amount":"1/8","unit":"tablespoon","food type": "seasoning","prepare method": "" },
+        "lemon": {"amount":"1/2","unit":"unit","food type": "fruit","prepare method": "juice" },
+        "parmesan": {"amount":"5","unit":"tablespoon","food type": "dairy product","prepare method": "" },
+        "butter": {"amount":"140","unit":"gram","food type": "dairy product","prepare method": "" }
+      },
+      "pictures": {
+        "picture one": "Images/lobster_with_thermidor_butter/lobster_with_thermidor_butter_one.jpg",
+        "picture two": "Images/lobster_with_thermidor_butter/lobster_with_thermidor_butter_two.jpg",
+        "picture three": "Images/lobster_with_thermidor_butter/lobster_with_thermidor_butter_three.jpg"
+      },
+      "instructions": "1. First make the butter. Put the wine and shallot into a pan, then bring to the boil and simmer until nearly dry. Tip into a bowl to cool, mix all the ingredients together, roll into a log, using cling film or foil, then chill to harden. Can be frozen for up to 1 month.\n\n 2. Snap away the claws from the lobster. Using a large chef’s knife, cut the lobster in half and wash the head cavity under cold water, then dry with kitchen paper. Lay the lobsters, cut side up, on a baking tray. Crack the claws and remove the claw meat. Divide claw meat between the head cavities. This can be done the day before and the lobster kept in the fridge ready for grilling.\n\n 3. Heat grill to high. Slice the butter into thin rounds and lay it along the lobsters so all the meat is covered. Grill for 5-8 mins until the butter is bubbling and starting to brown. Put the lobsters on plates, pouring any butter from the tray over them. Serve with new potatoes and some dressed salad leaves."
+    },
+
+     {
+      "recipe id": 19,
+      "recipe name": "classic prawn cocktail",
+      "halal food" : true,
+      "cooking time": "25 minutes",
+      "calories per serving": 293,
+      "dish type": "dinner",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "seafood and shellfish",
+      "ingredients":{
+        "cooked atlantic shell-on prawn": {"amount":"400","unit":"gram","food type": "seafood and shellfish","prepare method": ""},
+        "mayonnaise": {"amount":"5","unit":"tablespoon","food type": "dairy product", "prepare method": ""},
+        "Little Gem lettuces": {"amount":"4","unit":"unit","food type": "vegetables","prepare method": "trimmed" },
+        "tomato chutney": {"amount":"5","unit":"tablespoon","food type": "vegetables","prepare method": ""},
+        "worcestershire sauce": {"amount":"2","unit":"tablespoon","food type": "seasoning", "prepare method": ""},
+        "creamed horseradish": {"amount":"2","unit":"tablespoon","food type": "dairy product","prepare method": ""},
+        "Tabasco sauce": {"amount":"1/8","unit":"tablespoon","food type": "seasoning","prepare method": "" },
+        "lemon": {"amount":"1/5","unit":"tablespoon","food type": "fruit","prepare method": "juice" },
+        "paprika": {"amount":"10","unit":"gram","food type": "seasoning","prepare method": "for dusting"},
+        "chive": {"amount":"10","unit":"gram","food type": "vegetables","prepare method": "snipped" }
+      },
+      "pictures": {
+        "picture one": "Images/classic_prawn_cocktail/classic_prawn_cocktail_one.jpg",
+        "picture two": "Images/classic_prawn_cocktail/classic_prawn_cocktail_two.jpg",
+        "picture three": "Images/classic_prawn_cocktail/classic_prawn_cocktail_three.jpg"
+      },
+      "instructions": "1. Peel all but four of the prawns (reserve these for the tops). Break the lettuces into individual leaves, then divide the leaves evenly between four small glass bowls. Sprinkle the prawns over the lettuce and season with black pepper.\n\n 2. Mix the mayonnaise, tomato chutney, Worcestershire sauce, horseradish and Tabasco together. Season to taste with lemon juice and salt and pepper, then spoon sparingly over the prawns. Dust the top with a little paprika and sprinkle with chives. Top with the remaining prawns and serve immediately. Delicious with brown bread."
+    },
+
+     {
+      "recipe id": 20,
+      "recipe name": "squid chickpea and chorizo salad",
+      "halal food" : false,
+      "cooking time": "60 minutes",
+      "calories per serving": 443,
+      "dish type": "dinner",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "seafood and shellfish",
+      "ingredients":{
+        "cans chickpea": {"amount":"800","unit":"gram","food type": "vegetables","prepare method": "rinsed and drained"},
+        "parsley": {"amount":"25","unit":"gram","food type": "vegetables", "prepare method": "roughly chopped"},
+        "red peppers": {"amount":"4","unit":"unit","food type": "vegetables","prepare method": "" },
+        "red chilli": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "deseeded and chopped"},
+        "garlic cloves": {"amount":"2","unit":"unit","food type": "vegetables", "prepare method": "finely chopped"},
+        "olive oil": {"amount":"100","unit":"ml","food type": "cooking oil","prepare method": ""},
+        "squid": {"amount":"600","unit":"gram","food type": "seafood and shellfish","prepare method": "cleaned,sliced into rings,tentacles kept whole" },
+        "cooking chorizo": {"amount":"200","unit":"gram","food type": "meat","prepare method": "cut into chickpea-size chunks" },
+        "lemon": {"amount":"1","unit":"unit","food type": "fruit","prepare method": "juice and zest"}
+      },
+      "pictures": {
+        "picture one": "Images/squid_chickpea_and_chorizo_salad/squid_chickpea_and_chorizo_salad_one.jpg",
+        "picture two": "Images/squid_chickpea_and_chorizo_salad/squid_chickpea_and_chorizo_salad_two.jpg",
+        "picture three": "Images/squid_chickpea_and_chorizo_salad/squid_chickpea_and_chorizo_salad_three.jpg"
+      },
+      "instructions": "1. Cook the peppers whole under a grill, on a barbecue or griddle, until completely charred. Place the peppers in a bowl, cover with a plate until cool enough to handle, then peel, deseed and finely slice. In a large bowl mix the peppers and any juices with the chickpeas, parsley, chilli and garlic. Set aside.\n\n 2. Heat a large frying pan until smoking. Working quickly and carefully, add a splash of oil to the pan, then the squid. Stir-fry for about 30 secs. Scatter the chorizo over the squid, continue to cook for 30 secs more, then tip into the bowl with the peppers. Season everything with salt and pepper, then dress with the remaining oil, lemon juice and lemon zest. Mix together, pile onto a platter and let everyone help themselves."
+    },
+
+     {
+      "recipe id": 21,
+      "recipe name": "mousse au chocolat",
+      "halal food" : true,
+      "cooking time": "30 minutes",
+      "calories per serving": 283,
+      "dish type": "desserts",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "desserts",
+      "ingredients":{
+        "dark chocolate": {"amount":"200","unit":"gram","food type": "dairy product","prepare method": ""},
+        "brandy": {"amount":"2","unit":"tablespoon","food type": "seasoning", "prepare method": ""},
+        "free range eggs": {"amount":"3","unit":"unit","food type": "egg","prepare method": "" },
+        "golden caster sugar": {"amount":"50","unit":"gram","food type": "seasoning","prepare method": ""},
+        "icing sugar": {"amount":"5","unit":"gram","food type": "seasoning", "prepare method": "finely chopped"},
+        "whipping cream": {"amount":"100","unit":"ml","food type": "dairy product","prepare method": "for dusting"},
+        "crisp biscuits": {"amount":"30","unit":"gram","food type": "grain product","prepare method": "" }
+      },
+      "pictures": {
+        "picture one": "Images/mousse_au_chocolat/mousse_au_chocolat_one.jpg",
+        "picture two": "Images/mousse_au_chocolat/mousse_au_chocolat_two.jpg",
+        "picture three": "Images/mousse_au_chocolat/mousse_au_chocolat_three.jpg"
+      },
+      "instructions": "1. Grate 50g/2oz of the chocolate and reserve. Break the rest into small, even-sized pieces and melt in a bowl placed over a pan of simmering water. Take the pan off the heat but keep the bowl over the hot water and stir in the brandy. Don’t worry if the mixture thickens – it will smooth out again later.\n\n 2. Whisk the egg whites in a large bowl until they’re standing in stiff peaks. Spoon in half the sugar, whisk again, then add the rest of the sugar and whisk until it looks glossy like meringue. Whip the cream in a separate bowl. Take the melted chocolate off the pan and fold in a heaped metal serving spoon of meringue to loosen the consistency, then tip the chocolate into the meringue and fold in lightly but thoroughly. Now fold in the whipped cream, then twothirds of the grated chocolate.\n\n 3. Spoon the chocolate mixture into six demitasse cups (or you could use espresso cups or small teacups) and chill in the fridge for at least 2 hours, or overnight if this is more convenient. Sprinkle with the remaining grated chocolate, then dust with icing sugar. Serve the cups on saucers with some crisp biscuits tucked alongside."
+    },
+
+     {
+      "recipe id": 22,
+      "recipe name": "orange and white chocolate sponge",
+      "halal food" : true,
+      "cooking time": "70 minutes",
+      "calories per serving": 567,
+      "dish type": "desserts",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "desserts",
+      "ingredients":{
+        "butter": {"amount":"175","unit":"gram","food type": "dairy product","prepare method": "softened, plus extra for greasing"},
+        "orange": {"amount":"4","unit":"unit","food type": "fruit", "prepare method": "finely grated zest and juice of 1"},
+        "free range eggs": {"amount":"4","unit":"unit","food type": "egg","prepare method": "separated" },
+        "golden caster sugar": {"amount":"175","unit":"gram","food type": "seasoning","prepare method": ""},
+        "self raising flour": {"amount":"100","unit":"gram","food type": "grain product", "prepare method": ""},
+        "baking powder": {"amount":"1","unit":"tablespoon","food type": "dry chemical leavening agent","prepare method": ""},
+        "ground almond": {"amount":"100","unit":"gram","food type": "tree nuts","prepare method": "" },
+        "white chocolate": {"amount":"300","unit":"gram","food type": "dairy product","prepare method": "" },
+        "crème fraîche": {"amount":"200","unit":"ml","food type": "dairy product","prepare method": "" }
+      },
+      "pictures": {
+        "picture one": "Images/orange_and_white_chocolate_sponge/orange_and_white_chocolate_sponge_one.jpg",
+        "picture two": "Images/orange_and_white_chocolate_sponge/orange_and_white_chocolate_sponge_two.jpg",
+        "picture three": "Images/orange_and_white_chocolate_sponge/orange_and_white_chocolate_sponge_three.jpg"
+      },
+      "instructions": "1. Heat oven to 180C/fan 160C/gas 4. Butter two 20cm round sandwich tins and line the bases with baking parchment. Tip the sugar into a mixing bowl and add the softened butter and orange zest. Beat for 1 min or so until pale and fluffy, then beat in the egg yolks. Sift the flour and baking powder over the cake mixture and fold in lightly. Finally, fold in the almonds and orange juice. Whisk the egg whites until they just hold their shape. Fold one-third of the egg white into the cake mix, using the whisk. Repeat with another third, then the final third. Take care not to over-mix or you will lose the lightness of the egg whites.\n\n 2. Divide the cake mix between the prepared tins and bake for 30-35 mins. Cool in the tin for 5 mins, then turn out onto a wire rack, peel off the lining paper and leave to cool.\n\n 3. To make the icing, melt the chocolate over a pan of barely simmering water or in the microwave on High for 1½ mins, stirring every 30 secs, then leave to cool. Whip the crème fraîche until thick, then fold in the white chocolate. Set one cake on a serving plate or cake stand. Spoon half the icing onto the cake and top with the other cake. Spread with the rest of the icing, then allow to set in the fridge for at least 1 hr.\n\n 4. If you want to make the decorative curls, melt the chocolate in a bowl over simmering water or in a microwave and spread thinly over a baking tray. Leave the tray in the fridge for the chocolate to harden a bit, then use a cake slice or angled knife blade to scrape chocolate curls. Pile the curls in the middle of the cake and serve cut into slices."
+    },
+
+     {
+      "recipe id": 23,
+      "recipe name": "raspberry and white chocolate scones",
+      "halal food" : true,
+      "cooking time": "40 minutes",
+      "calories per serving": 312,
+      "dish type": "desserts",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "desserts",
+      "ingredients":{
+        "salt": {"amount":"1/4","unit":"tablespoon","food type": "seasoning","prepare method": ""},
+        "caster sugar": {"amount":"3","unit":"tablespoon","food type": "seasoning", "prepare method": ""},
+        "butter": {"amount":"95","unit":"gram","food type": "dairy product","prepare method": "cold,cubed" },
+        "plain flour": {"amount":"400","unit":"gram","food type": "grain product", "prepare method": "plus extra for dusting"},
+        "baking powder": {"amount":"2","unit":"tablespoon","food type": "dry chemical leavening agent","prepare method": ""},
+        "whole milk": {"amount":"180","unit":"ml","food type": "dairy product","prepare method": "" },
+        "white chocolate chunks": {"amount":"100","unit":"gram","food type": "dairy product","prepare method": "" },
+        "frozen raspberries": {"amount":"100","unit":"gram","food type": "fruit","prepare method": "" }
+      },
+      "pictures": {
+        "picture one": "Images/raspberry_and_white_chocolate_scones/raspberry_and_white_chocolate_scones_one.jpg",
+        "picture two": "Images/raspberry_and_white_chocolate_scones/raspberry_and_white_chocolate_scones_two.jpg",
+        "picture three": "Images/raspberry_and_white_chocolate_scones/raspberry_and_white_chocolate_scones_three.jpg"
+      },
+      "instructions": "1. Heat the oven to 220C/200C fan/gas 7. Mix the flour, salt, baking powder and sugar in a bowl, then rub the butter into the dry ingredients using your fingertips, until it looks like fine breadcrumbs. You can also gradually pulse it in a food processor until it resembles breadcrumbs. Gently fold in 75g of the white chocolate.\n\n 2. Gradually stir the milk into the flour mixture, and use your hands to bring it together until you have a smooth dough. You may need to add an extra 15-20ml milk until you have a soft dough. Gently stir in the raspberries. Working quickly so the raspberries don’t completely melt, lightly dust a baking sheet lined with non-stick baking parchment and the top of the dough with flour. Gently roll out the dough to a 2cm-thick circle (ours was 22cm). Cut into 8-10 triangles, like a pizza, spreading them all out so they’re about 5cm apart but still in a circle.\n\n 3. Bake for 18-20 mins until golden brown. Set aside to cool. Melt the remaining white chocolate either in a bowl over a pan of gently simmering water, or in 20-second bursts in the microwave. Drizzle the melted chocolate over the scones before serving."
+    },
+
+     {
+      "recipe id": 24,
+      "recipe name": "salted caramel fudge",
+      "halal food" : true,
+      "cooking time": "50 minutes",
+      "calories per serving": 121,
+      "dish type": "desserts",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "desserts",
+      "ingredients":{
+        "glucose syrup": {"amount":"1","unit":"tablespoon","food type": "seasoning","prepare method": ""},
+        "golden caster sugar": {"amount":"450","unit":"gram","food type": "seasoning", "prepare method": ""},
+        "double cream": {"amount":"400","unit":"gram","food type": "dairy product","prepare method": "cold,cubed" },
+        "vanilla bean paste": {"amount":"1","unit":"tablespoon","food type": "seasoning", "prepare method": ""},
+        "baking powder": {"amount":"2","unit":"tablespoon","food type": "dry chemical leavening agent","prepare method": ""},
+        "canned caramel": {"amount":"2","unit":"tablespoon","food type": "seasoning","prepare method": "" }
+      },
+      "pictures": {
+        "picture one": "Images/salted_caramel_fudge/salted_caramel_fudge_one.jpg",
+        "picture two": "Images/salted_caramel_fudge/salted_caramel_fudge_two.jpg",
+        "picture three": "Images/salted_caramel_fudge/salted_caramel_fudge_three.jpg"
+      },
+      "instructions": "1. Line a 20 x 20cm cake tin with baking parchment. Tip the sugar, cream, butter and glucose syrup into a large pan. Warm over a low heat to dissolve the sugar and melt the butter, stirring occasionally.\n\n 2. When the sugar has dissolved, put a sugar thermometer in the mixture, making sure the end is completely covered by the syrup – if it’s not, transfer the mixture to a smaller pan that’s still large enough for the syrup to bubble. Turn up the heat to medium-high and bring the syrup to the boil, stirring occasionally to stop it catching. When the thermometer reaches 116C – or ‘soft ball’ stage, remove the pan from the heat.\n\n 3. Leave the mixture to stand, undisturbed, for 5 mins, until the temperature drops to 110C, then stir in the vanilla bean paste and a good pinch of salt.\n\n 4. Remove the thermometer, then vigorously beat the mixture with a wooden spoon, checking the temperature every minute or so until it drops again to about 60C. By this time, the mixture will be really thick and have lost its glossy shine. Take the thermometer out and continue beating the mixture for a few more minutes. This part is crucial as it helps create small sugar crystals that give the fudge its smooth, creamy texture.\n\n 5. Quickly pour the fudge mixture into the prepared tin and smooth the surface using a spatula. Dot the caramel over the top, and swirl it through the fudge using a skewer. Sprinkle with 1 tsp sea salt, then leave to cool overnight at room temperature – don’t put it in the fridge, as it will become sticky and won’t set properly. Cut into 36 bite-sized pieces. Will keep in an airtight container at room temperature for up to two months."
+    },
+
+    {
+      "recipe id": 25,
+      "recipe name": "pulled pork",
+      "halal food" : false,
+      "cooking time": "265 minutes",
+      "calories per serving": 383,
+      "dish type": "dinner",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "meaty one",
+      "ingredients":{
+        "ground cumin": {"amount":"2","unit":"tablespoon","food type": "seasoning","prepare method": "" },
+        "smoked paprika": {"amount":"2","unit":"tablespoon","food type": "seasoning","prepare method": "" },
+        "pepper": {"amount":"2","unit":"tablespoon","food type": "seasoning","prepare method": "" },
+        "brown sugar": {"amount":"2","unit":"tablespoon","food type": "seasoning","prepare method": "" },
+        "salt": {"amount":"1","unit":"tablespoon","food type": "seasoning","prepare method": ""},
+        "mugfuls of cider": {"amount":"2","unit":"unit","food type": "cider","prepare method": "" },
+        "boneless shoulder of pork": {"amount":"2500","unit":"gram","food type": "meat","prepare method": "" },
+        "smoky barbecue sauce": {"amount":"260","unit":"ml","food type": "seasoning","prepare method": ""},
+        "soft white rolls": {"amount":"1","unit":"unit","food type": "grain product","prepare method": "" },
+        "coleslaw": {"amount":"150","unit":"gram","food type": "vegetables","prepare method": ""}
+      },
+      "pictures": {
+        "picture one": "Images/pulled_pork/pulled_pork_one.jpg",
+        "picture two": "Images/pulled_pork/pulled_pork_two.jpg",
+        "picture three": "Images/pulled_pork/pulled_pork_three.jpg"
+      },
+      "instructions": "1. Mix together 2 tsp each smoked paprika, ground cumin, pepper, and brown sugar, plus 1 tsp salt. Rub over the 2.5kg boneless shoulder of pork.\n\n 2. Put the pork in a big casserole dish, skin-side up, and pour in 2 medium mugfuls of cider.\n\n 3. Cover with a lid and cook in the oven at 150C/130C fan/gas 2 for anywhere between 4 and 8 hrs until falling apart. Check every few hours in case it gets dry – if it does, add another mugful of cider.\n\n 4. Take it out of the oven and put the meat in a big dish, leaving the liquid in the casserole.\n\n 5. Cut the skin off, then shred the meat using two forks. Ditch any fatty bits, and skim any excess fat off the surface of the sauce.\n\n 6. Add a mugful of a good smoky BBQ sauce to the casserole, mix it in, then ladle some into a bowl for dipping.\n\n 7. Put the pulled pork back in the casserole with the juices so it stays moist. Season to taste. Can be made one day ahead.\n\n 8. Serve in soft white rolls with coleslaw and the bowl of juices on the side for ‘French dipping’ the sandwich while you’re eating."
+    },
+
+    {
+      "recipe id": 26,
+      "recipe name": "chicken tikka masala",
+      "halal food" : true,
+      "cooking time": "65 minutes",
+      "calories per serving": 345,
+      "dish type": "dinner",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "meaty one",
+      "ingredients":{
+        "vegetable oil": {"amount":"4","unit":"tablespoon","food type": "cooking oil","prepare method": "" },
+        "butter": {"amount":"25","unit":"gram","food type": "dairy product","prepare method": "" },
+        "onions": {"amount":"4","unit":"unit","food type": "vegetables","prepare method": "roughly chopped" },
+        "chicken tikka masala paste": {"amount":"6","unit":"tablespoon","food type": "seasoning","prepare method": "" },
+        "red peppers": {"amount":"2","unit":"unit","food type": "vegetables","prepare method": "de-seeded and cut into chunks"},
+        "boneless skinless chicken breasts": {"amount":"8","unit":"unit","food type": "poultry","prepare method": "cut into 2.5cm cubes" },
+        "cans chopped tomatoes": {"amount":"800","unit":"gram","food type": "vegetables","prepare method": "" },
+        "tomato purée": {"amount":"4","unit":"tablespoon","food type": "vegetables","prepare method": ""},
+        "mango chutney": {"amount":"3","unit":"tablespoon","food type": "fruit","prepare method": "" },
+        "double cream": {"amount":"150","unit":"ml","food type": "dairy product","prepare method": ""},
+        "natural yogurt": {"amount":"150","unit":"ml","food type": "dairy product","prepare method": ""},
+        "coriander leaves": {"amount":"10","unit":"gram","food type": "seasoning","prepare method": ""}
+      },
+      "pictures": {
+        "picture one": "Images/chicken_tikka_masala/chicken_tikka_masala_one.png",
+        "picture two": "Images/chicken_tikka_masala/chicken_tikka_masala_two.png",
+        "picture three": "Images/chicken_tikka_masala/chicken_tikka_masala_three.png"
+      },
+      "instructions": "1. Heat the vegetable oil and butter in a large, lidded casserole on the hob, then add the onions and a pinch of salt. Cook for 15-20 mins until soft and golden.\n\n 2. Add the tikka masala paste and peppers, then cook for 5 mins more to cook out the rawness of the spices.\n\n 3. Add the chicken breasts and stir well to coat in the paste. Cook for 2 mins, then tip in the chopped tomatoes, tomato purée and 200ml water. Cover with a lid and gently simmer for 15 mins, stirring occasionally, until the chicken is cooked through.\n\n 4. Remove the lid, stir through the mango chutney, double cream and natural yogurt, then gently warm through. Season, then set aside whatever you want to freeze. Will keep, in an airtight container, in the freezer for up to three months.\n\n 5. Scatter the rest with coriander leaves and serve with basmati rice and naan bread."
+    },
+
+    {
+      "recipe id": 27,
+      "recipe name": "duck in plum sauce",
+      "halal food" : true,
+      "cooking time": "67 minutes",
+      "calories per serving": 517,
+      "dish type": "dinner",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "meaty one",
+      "ingredients":{
+        "cooked rice": {"amount":"200","unit":"gram","food type": "grain product","prepare method": "to serve"},
+        "skin-on boneless duck breasts": {"amount":"340","unit":"gram","food type": "poultry","prepare method": "" },
+        "dark soy sauce": {"amount":"1","unit":"tablespoon","food type": "seasoning","prepare method": "" },
+        "sunflower oil": {"amount":"1/2","unit":"tablespoon","food type": "cooking oil","prepare method": "" },
+        "plums": {"amount":"2","unit":"unit","food type": "fruit","prepare method": "stoned and sliced"},
+        "star anise": {"amount":"1","unit":"unit","food type": "seasoning","prepare method": "cut into 2.5cm cubes" },
+        "cinnamon stick": {"amount":"1","unit":"unit","food type": "seasoning","prepare method": "" },
+        "ginger": {"amount":"15","unit":"gram","food type": "vegetables","prepare method": "peeled and sliced"},
+        "garlic cloves": {"amount":"4","unit":"unit","food type": "vegetables","prepare method": "peeled but left whole" },
+        "rock sugar": {"amount":"15","unit":"gram","food type": "seasoning","prepare method": ""},
+        "lemon": {"amount":"1/2","unit":"unit","food type": "fruit","prepare method": "zest pared"},
+        "shaohsing wine": {"amount":"2","unit":"tablespoon","food type": "wine","prepare method": ""},
+        "light soy sauce": {"amount":"2","unit":"tablespoon","food type": "seasoning","prepare method": ""}
+      },
+      "pictures": {
+        "picture one": "Images/duck_in_plum_sauce/duck_in_plum_sauce_one.jpg",
+        "picture two": "Images/duck_in_plum_sauce/duck_in_plum_sauce_two.jpg",
+        "picture three": "Images/duck_in_plum_sauce/duck_in_plum_sauce_three.jpg"
+      },
+      "instructions": "1. Gently score the skin of both duck breasts using a sharp knife, then rub the dark soy sauce all over the breasts and into the cuts.\n\n 2. Heat the oil into a large frying pan over a medium-high heat and sear the duck breasts, skin-side down, until starting to turn crispy, about 5 mins. Flip over and cook for 5 mins more, then remove to a plate, leaving any fat behind, and set aside to rest.\n\n 3. Add the plum slices, star anise, cinnamon stick, ginger, garlic, rock sugar and lemon zest to the pan. Pour in the Shaohsing wine and light soy sauce, mix well, then add 200ml water and simmer gently for 15 mins over a medium heat. Nestle the duck breasts in, skin-side up, cover with a lid and cook for a further 15 mins.\n\n 4. Season with ¼ tsp salt, then remove the duck from the pan and slice into even pieces. Pass the sauce through a sieve into a bowl, then pour the plum sauce over the duck breasts. Serve with cooked rice and stir-fried greens, if you like."
+    },
+
+    {
+      "recipe id": 28,
+      "recipe name": "beef wellington",
+      "halal food" : true,
+      "cooking time": "150 minutes",
+      "calories per serving": 779,
+      "dish type": "dinner",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "meaty one",
+      "ingredients":{
+        "beef fillet": {"amount":"1000","unit":"gram","food type": "meat","prepare method": ""},
+        "olive oil": {"amount":"3","unit":"tablespoon","food type": "cooking oil","prepare method": "" },
+        "chestnut mushroom": {"amount":"250","unit":"gram","food type": "vegetables","prepare method": "" },
+        "butter": {"amount":"50","unit":"gram","food type": "dairy product","prepare method": "" },
+        "thyme": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": ""},
+        "dry white wine": {"amount":"100","unit":"ml","food type": "wine","prepare method": "" },
+        "prosciutto": {"amount":"12","unit":"slice","food type": "meat","prepare method": "" },
+        "puff pastry": {"amount":"500","unit":"gram","food type": "grain product","prepare method": ""},
+        "flour": {"amount":"10","unit":"gram","food type": "grain product","prepare method": "for dusting" },
+        "egg yolks": {"amount":"1","unit":"unit","food type": "egg","prepare method": "beaten with 1 tsp water"}
+      },
+      "pictures": {
+        "picture one": "Images/beef_wellington/beef_wellington_one.jpg",
+        "picture two": "Images/beef_wellington/beef_wellington_two.jpg",
+        "picture three": "Images/beef_wellington/beef_wellington_three.jpg"
+      },
+      "instructions": "1. Heat oven to 220C/fan 200C/gas 7.\n\n 2. Sit the 1kg beef fillet on a roasting tray, brush with 1 tbsp olive oil and season with pepper, then roast for 15 mins for medium-rare or 20 mins for medium. When the beef is cooked to your liking, remove from the oven to cool, then chill in the fridge for about 20 mins.\n\n 3. While the beef is cooling, chop 250g chestnut (and wild, if you like) mushrooms as finely as possible so they have the texture of coarse breadcrumbs. You can use a food processor to do this, but make sure you pulse-chop the mushrooms so they don’t become a slurry.\n\n 4. Heat 2 tbsp of the olive oil and 50g butter in a large pan and fry the mushrooms on a medium heat, with 1 large sprig fresh thyme, for about 10 mins stirring often, until you have a softened mixture.\n\n 5. Season the mushroom mixture, pour over 100ml dry white wine and cook for about 10 mins until all the wine has been absorbed. The mixture should hold its shape when stirred.\n\n 6. Remove the mushroom duxelle from the pan to cool and discard the thyme.\n\n 7. Overlap two pieces of cling film over a large chopping board. Lay 12 slices prosciutto on the cling film, slightly overlapping, in a double row.\n\n 8. Spread half the duxelles over the prosciutto, then sit the fillet on it and spread the remaining duxelles over.\n\n 9. Use the cling film’s edges to draw the prosciutto around the fillet, then roll it into a sausage shape, twisting the ends of cling film to tighten it as you go.\n\n 10. Chill the fillet while you roll out the pastry.\n\n 11. Dust your work surface with a little flour. Roll out a third of the 500g pack of puff pastry to a 18 x 30cm strip and place on a non-stick baking sheet.\n\n 12. Roll out the remainder of the 500g pack of puff pastry to about 28 x 36cm.\n\n 13. Unravel the fillet from the cling film and sit it in the centre of the smaller strip of pastry.\n\n 14. Beat the 2 egg yolks with 1 tsp water and brush the pastry’s edges, and the top and sides of the wrapped fillet.\n\n 15. Using a rolling pin, carefully lift and drape the larger piece of pastry over the fillet, pressing well into the sides.\n\n 16. Trim the joins to about a 4cm rim. Seal the rim with the edge of a fork or spoon handle.\n\n 17. Glaze all over with more egg yolk and, using the back of a knife, mark the beef Wellington with long diagonal lines taking care not to cut into the pastry.\n\n 18. Chill for at least 30 mins and up to 24 hrs. Heat oven to 200C/fan 180C/gas 6.\n\n 19. Brush the Wellington with a little more egg yolk and cook until golden and crisp – 20-25 mins for medium-rare beef, 30 mins for medium. Allow to stand for 10 mins before serving in thick slices."
+    },
+
+    {
+      "recipe id": 29,
+      "recipe name": "pork and chive dumplings",
+      "halal food" : false,
+      "cooking time": "140 minutes",
+      "calories per serving": 602,
+      "dish type": "dinner",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "meaty one",
+      "ingredients":{
+        "20% fat pork mince": {"amount":"500","unit":"gram","food type": "meat","prepare method": ""},
+        "Chinese garlic chives": {"amount":"200","unit":"gram","food type": "vegetables","prepare method": "finely sliced" },
+        "light soy sauce": {"amount":"1.5","unit":"tablespoon","food type": "seasoning","prepare method": "" },
+        "oyster sauce": {"amount":"1","unit":"tablespoon","food type": "seasoning","prepare method": "" },
+        "white pepper": {"amount":"1","unit":"tablespoon","food type": "seasoning","prepare method": ""},
+        "sugar": {"amount":"1","unit":"tablespoon","food type": "seasoning","prepare method": "" },
+        "cornflour": {"amount":"1.5","unit":"tablespoon","food type": "grain product","prepare method": "" },
+        "sesame oil": {"amount":"1.5","unit":"tablespoon","food type": "seasoning","prepare method": ""},
+        "pre-made dumpling wrappers": {"amount":"40","unit":"unit","food type": "grain product","prepare method": "defrosted" },
+        "chinese black vinegar": {"amount":"200","unit":"ml","food type": "seasoning","prepare method": ""},
+        "chilli oil": {"amount":"1","unit":"tablespoon","food type": "seasoning","prepare method": ""},
+        "spring onion": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "finely sliced"}
+      },
+      "pictures": {
+        "picture one": "Images/pork_and_chive_dumplings/pork_and_chive_dumplings_one.jpg",
+        "picture two": "Images/pork_and_chive_dumplings/pork_and_chive_dumplings_two.jpg",
+        "picture three": "Images/pork_and_chive_dumplings/pork_and_chive_dumplings_three.jpg"
+      },
+      "instructions": "1. Tip the pork and chives into a bowl. Add the light soy sauce, oyster sauce, white pepper, 1 tsp salt, the sugar, cornflour and sesame oil, then mix well. Cover and leave to marinate in the fridge for 1 hr. Meanwhile, combine the dumpling sauce ingredients in a bowl and put in the fridge until needed.\n\n 2. Dipping a finger into cold water, wet the bottom half edges of a dumpling wrapper, then add ½ tbsp of the filling into the centre.\n\n 3. Fold the dumpling from the bottom up and firmly pinch at the middle, then start pleating each side from the right into the centre, firmly pinching as you go. Tuck in the sides and repeat with the left side. Firmly pinch across the top of the dumpling to ensure a tight seal. Repeat to make 40 dumplings.\n\n 4. Bring a large pan of water to boil and cook the dumplings in batches, around 10 at a time. Cook for 3-4 mins until the water starts simmering or the dumplings float to the top. Remove with a slotted spoon and set aside. Repeat until all the dumplings are cooked.\n\n 5. Add a splash of oil to a frying pan and heat on a medium-high heat. Fry the boiled dumplings on each side for 4 mins or until golden brown, then serve with the dumpling sauce either drizzled over or for dipping."
+    },
+
+    {
+      "recipe id": 30,
+      "recipe name": "pork noodle stir fry",
+      "halal food" : false,
+      "cooking time": "30 minutes",
+      "calories per serving": 599,
+      "dish type": "dinner",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "rice and noodles dish",
+      "ingredients":{
+        "lean pork mince": {"amount":"350","unit":"gram","food type": "meat","prepare method": ""},
+        "ginger": {"amount":"50","unit":"gram","food type": "vegetables","prepare method": "peeled and chopped" },
+        "garlic cloves": {"amount":"3","unit":"unit","food type": "vegetables","prepare method": "crushed" },
+        "stir fry vegetables bag": {"amount":"320","unit":"gram","food type": "vegetables","prepare method": "" },
+        "low salt soy sauce": {"amount":"4","unit":"tablespoon","food type": "seasoning","prepare method": ""},
+        "cornflour": {"amount":"2","unit":"tablespoon","food type": "grain product","prepare method": "" },
+        "egg noodles": {"amount":"350","unit":"gram","food type": "grain product","prepare method": "" },
+        "sesame oil": {"amount":"3","unit":"tablespoon","food type": "seasoning","prepare method": ""},
+        "sweet chilli sauce": {"amount":"4","unit":"tablespoon","food type": "seasoning","prepare method": ""}
+      },
+      "pictures": {
+        "picture one": "Images/pork_noodle_stir_fry/pork_noodle_stir_fry_one.jpg",
+        "picture two": "Images/pork_noodle_stir_fry/pork_noodle_stir_fry_two.jpg",
+        "picture three": "Images/pork_noodle_stir_fry/pork_noodle_stir_fry_three.jpg"
+      },
+      "instructions": "1. Heat the oil in a wok or frying pan. Add the mince, break it up with a spoon and fry over a high heat for about 8 mins until browning. While the meat cooks, boil a kettle, then pour the hot water over the noodles. Set aside for 5-10 mins to soften.\n\n 2. Add the ginger, garlic and veg to the pan and stir-fry for 2-3 mins. Mix 1 tbsp soy sauce with the cornflour to make a paste. Add the remaining soy sauce, the chilli sauce and 2 tbsp water. Drain the noodles and add to the pan with the sauce. Cook until the sauce coats the noodles, adding a splash of water if needed, then serve."
+    },
+
+    {
+      "recipe id": 31,
+      "recipe name": "egg fried rice",
+      "halal food" : true,
+      "cooking time": "20 minutes",
+      "calories per serving": 387,
+      "dish type": "dinner",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "rice and noodles dish",
+      "ingredients":{
+        "long grain rice": {"amount":"250","unit":"gram","food type": "grain product","prepare method": ""},
+        "vegetable oil": {"amount":"3","unit":"tablespoon","food type": "cooking oil","prepare method": "" },
+        "onion": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "finely chopped" },
+        "eggs": {"amount":"4","unit":"unit","food type": "egg","prepare method": "beaten" },
+        "spring onions": {"amount":"4","unit":"unit","food type": "vegetables","prepare method": "sliced, to serve"}
+      },
+      "pictures": {
+        "picture one": "Images/egg_fried_rice/egg_fried_rice_one.jpg",
+        "picture two": "Images/egg_fried_rice/egg_fried_rice_two.jpg",
+        "picture three": "Images/egg_fried_rice/egg_fried_rice_three.jpg"
+      },
+      "instructions": "1. Cook the rice following pack instructions, then drain, spread it out to steam-dry and set aside.\n\n 2. Heat 2 tbsp of the oil in a large wok over a high heat, then add the onion and fry until lightly browned, around 5 mins.\n\n 3. Add the rice, stir and toast for about 3 mins, then move to the side of the pan.\n\n 4. Add the remaining oil, then tip in the egg mixture.\n\n 5. Leave to cook a little, then mix in with the rice – stir vigorously to coat the grains or, if you prefer the egg chunkier, allow to set for a little longer before breaking up and stirring through.\n\n 6. Tip into a serving bowl and scatter over the spring onion to serve. You can also add sesame oil, ground white pepper and a splash of soy sauce to season."
+    },
+
+    {
+      "recipe id": 32,
+      "recipe name": "portuguese duck rice",
+      "halal food" : false,
+      "cooking time": "135 minutes",
+      "calories per serving": 998,
+      "dish type": "dinner",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "rice and noodles dish",
+      "ingredients":{
+        "whole duck": {"amount":"1","unit":"unit","food type": "poultry","prepare method": "trimmed of excess fat and jointed"},
+        "coriander": {"amount":"30","unit":"gram","food type": "vegetables","prepare method": "" },
+        "bay leaves": {"amount":"2","unit":"unit","food type": "vegetables","prepare method": "" },
+        "thyme sprig": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "" },
+        "spring onions": {"amount":"4","unit":"unit","food type": "vegetables","prepare method": "sliced, to serve"},
+        "star anise": {"amount":"1","unit":"unit","food type": "seasoning","prepare method": "" },
+        "leek": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "" },
+        "onion": {"amount":"2","unit":"unit","food type": "vegetables","prepare method": "halved" },
+        "carrot": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "" },
+        "large orange": {"amount":"1","unit":"unit","food type": "fruit","prepare method": "zested and juiced" },
+        "olive oil": {"amount":"2","unit":"tablespoon","food type": "seasoning","prepare method": "" },
+        "garlic clove": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "" },
+        "basmati rice": {"amount":"250","unit":"gram","food type": "grain product","prepare method": "" },
+        "chorizo": {"amount":"100","unit":"gram","food type": "meat","prepare method": "cubed" },
+        "mint leaves": {"amount":"30","unit":"gram","food type": "vegetables","prepare method": "to serve" },
+        "salad": {"amount":"200","unit":"gram","food type": "vegetables","prepare method": "to serve" }
+      },
+      "pictures": {
+        "picture one": "Images/portuguese_duck_rice/portuguese_duck_rice_one.jpg",
+        "picture two": "Images/portuguese_duck_rice/portuguese_duck_rice_two.jpg",
+        "picture three": "Images/portuguese_duck_rice/portuguese_duck_rice_three.jpg"
+      },
+      "instructions": "1. Put the duck in your largest pan, cover with water and add the coriander, bay, thyme, star anise, leek top, onion, carrot, orange zest and a grinding of black pepper. Place over a medium heat and bring to the boil, skimming off any scum from the surface. Turn down the heat slightly, cover and simmer for 45 mins, then turn off the heat and let the duck cool in the stock for 15 mins. Drain the stock from the duck, reserving it to cook the rice. Leave the duck to rest until cool enough to handle, then shred the meat away from the bone.\n\n 2. Heat oven to 180C/160C fan/ gas 4. To make the rice, heat the oil in a large frying pan over a medium-high heat and sauté the leek, onion and garlic for 10-12 mins or until soft and aromatic. Add the rice and fry for 5 mins or until the grains are turning golden and crispy, and sticking to the pan. Add 400ml of the duck stock and cook for 15 mins, covered, without stirring, or until the rice is puffed and dry.\n\n 3. Stir the duck meat and orange juice through the rice, season, then transfer the mixture to an oiled roasting tin or casserole dish. Top with the chorizo and place on a high shelf in the oven to cook for 20-25 mins or until the rice is crisp and golden. Garnish with coriander or mint leaves, and serve with a salad, if you like."
+    },
+
+    {
+      "recipe id": 33,
+      "recipe name": "spaghetti puttanesca",
+      "halal food" : true,
+      "cooking time": "35 minutes",
+      "calories per serving": 495,
+      "dish type": "dinner",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "rice and noodles dish",
+      "ingredients":{
+        "dried spaghetti": {"amount":"300","unit":"gram","food type": "grain product","prepare method": ""},
+        "olive oil": {"amount":"3","unit":"tablespoon","food type": "cooking oil","prepare method": "" },
+        "onion": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "finely chopped" },
+        "chilli flakes": {"amount":"5","unit":"gram","food type": "seasoning","prepare method": "" },
+        "can chopped tomatoes": {"amount":"400","unit":"gram","food type": "vegetables","prepare method": ""},
+        "anchovy": {"amount":"5","unit":"unit","food type": "fish","prepare method": "fillets, finely chopped" },
+        "pitted black olives": {"amount":"120","unit":"gram","food type": "fruit","prepare method": "" },
+        "capers": {"amount":"2","unit":"tablespoon","food type": "vegetables","prepare method": "drained" },
+        "parsley": {"amount":"15","unit":"gram","food type": "seasoning","prepare method": "" },
+        "garlic clove": {"amount":"2","unit":"unit","food type": "vegetables","prepare method": "crushed" }
+      },
+      "pictures": {
+        "picture one": "Images/singapore_noodles/singapore_noodles_one.jpg",
+        "picture two": "Images/singapore_noodles/singapore_noodles_two.jpg",
+        "picture three": "Images/singapore_noodles/singapore_noodles_three.jpg"
+      },
+      "instructions": "1. Pour boiling water over the noodles and leave to soften. Meanwhile, heat half the oil in a large non-stick wok and stir-fry all the vegetables, except the beansprouts and onions, with the garlic, chilli and ginger until softened. If the broccoli won’t soften, add a splash of water to the wok and cover to create some steam.\n\n 2. Tip the veg on to a plate, add the rest of the oil to the wok then briefly stir-fry the chicken and prawns until just cooked. Set aside with the vegetables and add the curry paste to the pan. Stir-fry for a few secs then add 150ml water and the soy sauce. Allow to bubble then add the drained, softened noodles and beansprouts, and toss together to coat.\n\n 3. Return the vegetables, chicken and prawns to the wok with the coriander and spring onions. Toss well over the heat and serve with lime wedges."
+    },
+
+    {
+      "recipe id": 34,
+      "recipe name": "singapore noodles",
+      "halal food" : true,
+      "cooking time": "30 minutes",
+      "calories per serving": 288,
+      "dish type": "dinner",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "rice and noodles dish",
+      "ingredients":{
+        "singapore noodles": {"amount":"400","unit":"gram","food type": "grain product","prepare method": ""},
+        "sunflower oil": {"amount":"2","unit":"tablespoon","food type": "cooking oil","prepare method": "" },
+        "tender stem broccoli": {"amount":"100","unit":"gram","food type": "vegetables","prepare method": "stems sliced at an angle" },
+        "red pepper": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "de-seeded, quartered then cut into strips" },
+        "baby corn": {"amount":"85","unit":"gram","food type": "vegetables","prepare method": "quartered lenthways"},
+        "red chilli": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "deseeded and chopped" },
+        "ginger": {"amount":"1/4","unit":"unit","food type": "vegetables","prepare method": "peeled and finely chopped" },
+        "skinless chicken breasts": {"amount":"2","unit":"unit","food type": "poultry","prepare method": "sliced" },
+        "shelled raw king prawns": {"amount":"100","unit":"gram","food type": "seafood and shellfish","prepare method": "" },
+        "madras curry paste": {"amount":"1","unit":"tablespoon","food type": "seasoning","prepare method": "" },
+        "soy sauce": {"amount":"2","unit":"tablespoon","food type": "seasoning","prepare method": "" },
+        "garlic clove": {"amount":"2","unit":"unit","food type": "vegetables","prepare method": "shredded" },
+        "beansprouts": {"amount":"100","unit":"gram","food type": "vegetables","prepare method": "" },
+        "coriander": {"amount":"15","unit":"gram","food type": "vegetables","prepare method": "chopped" },
+        "spring onions": {"amount":"4","unit":"unit","food type": "vegetables","prepare method": "shredded" },
+        "lime": {"amount":"1","unit":"unit","food type": "fruit","prepare method": "wedges,for squeezing" }
+      },
+      "pictures": {
+        "picture one": "Images/spaghetti_puttanesca/spaghetti_puttanesca_one.jpg",
+        "picture two": "Images/spaghetti_puttanesca/spaghetti_puttanesca_two.jpg",
+        "picture three": "Images/spaghetti_puttanesca/spaghetti_puttanesca_three.jpg"
+      },
+      "instructions": "1. Heat the oil in a non-stick pan over a medium-low heat. Add the onion along with a generous pinch of salt and fry for 10 mins, or until soft. Add the garlic and chilli, if using, and cook for a further minute.\n\n 2. Stir the tomatoes, anchovies, olives and capers into the onion, bring to a gentle simmer and cook, uncovered, for 15 mins. Season to taste.\n\n 3. Meanwhile, bring a large pan of salted water to the boil. Cook the spaghetti following pack instructions, then drain and toss with the sauce and parsley."
+    },
+
+    {
+      "recipe id": 35,
+      "recipe name": "chicken and bacon pasta",
+      "halal food" : false,
+      "cooking time": "40 minutes",
+      "calories per serving": 857,
+      "dish type": "dinner",
+      "diet category": "flexitarian (normal diet)",
+      "recipe category": "rice and noodles dish",
+      "ingredients":{
+        "butter": {"amount":"1","unit":"tablespoon","food type": "dairy product","prepare method": ""},
+        "olive oil": {"amount":"2","unit":"tablespoon","food type": "cooking oil","prepare method": "" },
+        "double cream": {"amount":"200","unit":"ml","food type": "dairy product","prepare method": "" },
+        "onion": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "finely chopped"},
+        "mascarpone": {"amount":"100","unit":"gram","food type": "dairy product","prepare method": ""},
+        "parmesan": {"amount":"75","unit":"gram","food type": "dairy product","prepare method": "finely grated" },
+        "chicken stock cube": {"amount":"1","unit":"unit","food type": "seasoning","prepare method": "" },
+        "cooked chicken breasts": {"amount":"210","unit":"gram","food type": "poultry","prepare method": "shredded" },
+        "bacon": {"amount":"25","unit":"gram","food type": "meat","prepare method": "roughly chopped" },
+        "tagliatelle": {"amount":"300","unit":"gram","food type": "grain product","prepare method": "" },
+        "parsley": {"amount":"15","unit":"gram","food type": "seasoning","prepare method": "finely chopped" },
+        "garlic clove": {"amount":"1","unit":"unit","food type": "vegetables","prepare method": "finely grated" },
+        "green salad": {"amount":"200","unit":"gram","food type": "vegetables","prepare method": "to serve" }
+      },
+      "pictures": {
+        "picture one": "Images/chicken_and_bacon_pasta/chicken_and_bacon_pasta_one.jpg",
+        "picture two": "Images/chicken_and_bacon_pasta/chicken_and_bacon_pasta_two.jpg",
+        "picture three": "Images/chicken_and_bacon_pasta/chicken_and_bacon_pasta_three.jpg"
+      },
+      "instructions": "1. Heat the oil and butter in a medium saucepan over a low heat and fry the onion for 10 mins, or until softened and translucent. Add the garlic and cook for 2 mins more. Add the cream, mascarpone, parmesan and stock cube. Give it a stir and add the cooked chicken and bacon to heat through.\n\n 2. Meanwhile, cook the pasta following pack instructions. Reserve 100ml of the pasta water. Toss the pasta in the creamy sauce and enough of the reserved water to loosen. Season with black pepper. Top with the parsley and serve with a green salad."
+    }
+
+  ]
+}
